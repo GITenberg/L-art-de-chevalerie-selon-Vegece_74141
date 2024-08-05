@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/74141">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-27</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">536</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/4613">
+        <pgterms:name>Christine, de Pisan</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1363</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1430</pgterms:deathdate>
+        <pgterms:alias>Pizan, Christine de</pgterms:alias>
+        <pgterms:alias>Pisan, Christine de</pgterms:alias>
+        <pgterms:alias>Pisan, Christiné de</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Christine_de_Pizan"/>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/Christine_de_Pizan"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/57341">
+        <pgterms:name>Bonet, Honoré</pgterms:name>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1409</pgterms:deathdate>
+        <pgterms:alias>Bonet, Honore</pgterms:alias>
+        <pgterms:alias>Bonet, Honnouré</pgterms:alias>
+        <pgterms:alias>Bonet, Honnoure</pgterms:alias>
+        <pgterms:alias>Bonet, Honorat</pgterms:alias>
+        <pgterms:alias>Bonnor, Honoré</pgterms:alias>
+        <pgterms:alias>Bouvet, Honoré de</pgterms:alias>
+        <pgterms:alias>Bovet, Honorat</pgterms:alias>
+        <pgterms:alias>Honoré Bonet</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Honor%C3%A9_Bonet"/>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/Honorat_Bovet"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/6556">
+        <pgterms:name>Frontinus, Sextus Julius</pgterms:name>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</pgterms:deathdate>
+        <pgterms:alias>Frontino, Sesto Giulio</pgterms:alias>
+        <pgterms:alias>Frontini, Iuli</pgterms:alias>
+        <pgterms:alias>Frontino, Sexto Julio</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Sextus_Julius_Frontinus"/>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/Frontin"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/57363">
+        <pgterms:name>Vegetius Renatus, Flavius</pgterms:name>
+        <pgterms:alias>Renatus, Flavius Vegetius</pgterms:alias>
+        <pgterms:alias>Renato, Flavio Vegecio</pgterms:alias>
+        <pgterms:alias>Végèce</pgterms:alias>
+        <pgterms:alias>Vegece, Flave</pgterms:alias>
+        <pgterms:alias>Vegesce, Flave René</pgterms:alias>
+        <pgterms:alias>Vegecio, Publio Renato</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Vegetius"/>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A8ce"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <marcrel:trl>
+      <pgterms:agent rdf:about="2009/agents/57370">
+        <pgterms:name>Jean, de Vignay</pgterms:name>
+        <pgterms:alias>Iehan, de Vignay</pgterms:alias>
+        <pgterms:alias>Jehan, du Vingnai</pgterms:alias>
+        <pgterms:alias>Johannes, du Vignai</pgterms:alias>
+        <pgterms:alias>Vignai, Jean de</pgterms:alias>
+        <pgterms:alias>Vignay, Jean de</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Jean_de_Vignay"/>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/Jean_de_Vignay"/>
+      </pgterms:agent>
+    </marcrel:trl>
+    <pgterms:marc010>65059083</pgterms:marc010>
+    <dcterms:title>L'art de chevalerie selon Vegece</dcterms:title>
+    <dcterms:alternative>L'art de cheualerie selon Vegece</dcterms:alternative>
+    <pgterms:marc260>  $aParis :$bAntoine Vérard, $c1488.</pgterms:marc260>
+    <dcterms:description>From New York Public Library's summary: "[C]ompiled by Christine de Pisan mainly from the French translation of Vegetius by [or rather, attributed to] Jean de Vignai, with additions from the Arbre des batailles of Honoré Bonnor [also spelled Bovet or Bonet]."--Catalogue of books printed in the XVth century now in the British Museum. See also Lefèvre, Sylvie. "Christine de Pizan," in Dictionnaire des lettres françaises: le Moyen Âge, édition entièrement revue et mise à jour, 1994, pages 285-286: "La première [partie] s'inspire essentiellement de Végèce, la seconde de Frontin"; in the third part, the author relates a dream in which she is advised to make use of Honoré Bovet's Arbre des batailles and to ignore accusations of plagiarism directed at her.</dcterms:description>
+    <pgterms:marc508>Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica))</pgterms:marc508>
+    <pgterms:marc904>https://gallica.bnf.fr/ark:/12148/bpt6k8711459w</pgterms:marc904>
+    <pgterms:marc905>20220909222732vegetusren</pgterms:marc905>
+    <pgterms:marc906>1488</pgterms:marc906>
+    <pgterms:marc907>FR</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N7742bfa0858a458fb5899b5be1c35900">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">fr</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N5e1326d470704dfa90c84026f931d41d">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Military art and science -- Early works to 1800</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N32b0a3a581ed4f48be855f2feaa49eef">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Virtues -- Poetry -- Early works to 1800</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ne7f9be1a73d54cfeb91ed7c302c2837b">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>U</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N110d4f793b8a4f4d83b2aad8ab2be809">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">521144</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:10.472635</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9e65dbb7e4154308840df50be3ae0276">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/74141/74141-h/74141-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">494206</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T13:56:32</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N561f4d6063e94fa9ae8eae00432a450d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.epub3.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1052612</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:32.398513</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N758a4e2af006479bacf25ef95487eb69">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1054163</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:19.964604</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N81eb51c0d2cb4befae35f01ed758a750">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375777</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:13.816664</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7f7f475f105c49bfb27e11c4e03c3e6b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.kf8.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1355333</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:44.268458</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N94481909d78449a2b137303b1b62566e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1266770</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:31.911535</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N84e9b54bb405448cbb86f08f5c097bc0">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">475931</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:09.609624</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6fd83dc7169f4192b166abf868d79774">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/74141/74141-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455954</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T13:56:32</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N94e381cc72974a7f99d75af3c78193e8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/74141.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5040</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:44.420484</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc0997c36a32543d089b2d30e4faf9e86">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/74141/pg74141.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11683</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:19.541580</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfb33d6daecc04ff9b675cc41fa507241">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/74141/pg74141.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1882</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:19.398588</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N12f307a43f5c4ed9ab6c16e40ad89682">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/74141/pg74141-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/74141"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">887255</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-27T15:00:10.542625</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N39098bdbdde845c8ac9b754f040d9650">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N737e2800c4544c7b9c04f8d5bbcf2a53">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Sextus_Julius_Frontinus">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Christine_de_Pizan">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Jean_de_Vignay">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/Frontin">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Vegetius">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/Christine_de_Pizan">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A8ce">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Honor%C3%A9_Bonet">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/Jean_de_Vignay">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/Honorat_Bovet">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

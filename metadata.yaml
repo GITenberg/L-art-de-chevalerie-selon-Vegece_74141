@@ -1,0 +1,105 @@
+_repo: L-art-de-chevalerie-selon-Vegece_74141
+_version: 0.0.1
+alternative_title: L'art de cheualerie selon Vegece
+contributor:
+  translator:
+    agent_name: Jean, de Vignay
+    aliases:
+    - Iehan, de Vignay
+    - Jehan, du Vingnai
+    - Johannes, du Vignai
+    - Vignai, Jean de
+    - Vignay, Jean de
+    gutenberg_agent_id: '57370'
+    url: http://www.gutenberg.org/2009/agents/57370
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_de_Vignay
+    - https://fr.wikipedia.org/wiki/Jean_de_Vignay
+creator:
+  authors:
+  - agent_name: Christine, de Pisan
+    aliases:
+    - Pizan, Christine de
+    - Pisan, Christine de
+    - Pisan, Christiné de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Christine_de_Pizan
+    - https://fr.wikipedia.org/wiki/Christine_de_Pizan
+  - agent_name: Bonet, Honoré
+    aliases:
+    - Bonet, Honore
+    - Bonet, Honnouré
+    - Bonet, Honnoure
+    - Bonet, Honorat
+    - Bonnor, Honoré
+    - Bouvet, Honoré de
+    - Bovet, Honorat
+    - Honoré Bonet
+    deathdate: 1409
+    gutenberg_agent_id: '57341'
+    url: http://www.gutenberg.org/2009/agents/57341
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Honor%C3%A9_Bonet
+    - https://fr.wikipedia.org/wiki/Honorat_Bovet
+  - agent_name: Frontinus, Sextus Julius
+    aliases:
+    - Frontino, Sesto Giulio
+    - Frontini, Iuli
+    - Frontino, Sexto Julio
+    deathdate: 104
+    gutenberg_agent_id: '6556'
+    url: http://www.gutenberg.org/2009/agents/6556
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sextus_Julius_Frontinus
+    - https://fr.wikipedia.org/wiki/Frontin
+  - agent_name: Vegetius Renatus, Flavius
+    aliases:
+    - Renatus, Flavius Vegetius
+    - Renato, Flavio Vegecio
+    - Végèce
+    - Vegece, Flave
+    - Vegesce, Flave René
+    - Vegecio, Publio Renato
+    gutenberg_agent_id: '57363'
+    url: http://www.gutenberg.org/2009/agents/57363
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Vegetius
+    - https://fr.wikipedia.org/wiki/V%C3%A9g%C3%A8ce
+description: 'From New York Public Library''s summary: "[C]ompiled by Christine de
+  Pisan mainly from the French translation of Vegetius by [or rather, attributed to]
+  Jean de Vignai, with additions from the Arbre des batailles of Honoré Bonnor [also
+  spelled Bovet or Bonet]."--Catalogue of books printed in the XVth century now in
+  the British Museum. See also Lefèvre, Sylvie. "Christine de Pizan," in Dictionnaire
+  des lettres françaises: le Moyen Âge, édition entièrement revue et mise à jour,
+  1994, pages 285-286: "La première [partie] s''inspire essentiellement de Végèce,
+  la seconde de Frontin"; in the third part, the author relates a dream in which she
+  is advised to make use of Honoré Bovet''s Arbre des batailles and to ignore accusations
+  of plagiarism directed at her.'
+gutenberg_issued: '2024-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74141'
+  lccn: '65059083'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k8711459w
+pgterms:marc905: 20220909222732vegetusren
+pgterms:marc906: '1488'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bAntoine Vérard, $c1488.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military art and science -- Early works to 1800'
+- !lcsh 'Virtues -- Poetry -- Early works to 1800'
+- !lcc 'U'
+- GITenberg
+title: L'art de chevalerie selon Vegece
+url: http://www.gutenberg.org/ebooks/74141
