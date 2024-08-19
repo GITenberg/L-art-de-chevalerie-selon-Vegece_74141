@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Jean_de_Vignay
     - https://fr.wikipedia.org/wiki/Jean_de_Vignay
+covers:
+- cover_type: archival
+  image_path: 74141-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Christine, de Pisan
@@ -79,6 +82,8 @@ description: 'From New York Public Library''s summary: "[C]ompiled by Christine 
   la seconde de Frontin"; in the third part, the author relates a dream in which she
   is advised to make use of Honoré Bovet''s Arbre des batailles and to ignore accusations
   of plagiarism directed at her.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74141#L-art-de-chevalerie-selon-Vegece
 gutenberg_issued: '2024-07-27'
 gutenberg_type: Text
 identifiers:
